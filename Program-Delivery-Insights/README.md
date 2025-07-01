@@ -18,7 +18,8 @@ This dashboard uses a mock dataset named `Program_Feature_Tracking.csv`, which i
 - `Risk_Flag`: Delivery risk indicator (High, Medium, Low)
 - `Dependency_Team`: Cross-team dependencies
 
----
+---![image](https://github.com/user-attachments/assets/41c1bd3c-1f7f-4e48-9310-e684d0e33f6c)
+
 
 ## 📈 Dashboard Highlights
 
