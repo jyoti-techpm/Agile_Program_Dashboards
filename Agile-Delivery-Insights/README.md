@@ -12,6 +12,9 @@ This Power BI dashboard simulates key agile delivery metrics using mock sprint d
 - **Sprint Matrix**: Completed Points per Team x Sprint
 - **Filters**: Interactive slicers for Team and Sprint
 
+- ![image](https://github.com/user-attachments/assets/c5e8633e-dd8b-4b77-b74b-dd6da1d25931)
+
+
 ## 🧪 Sample Data Included
 
 - `Sprint_Performance_Metrics.xlsx`: Mock sprint data for 3 teams across 6 sprints
